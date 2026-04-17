@@ -1,0 +1,12 @@
+# Spider 输出图片（体积大，只保留 Markdown）
+references/spider-output/*/images/
+references/spider-output/**/*.jpg
+references/spider-output/**/*.png
+references/spider-output/**/*.gif
+references/spider-output/**/*.webp
+
+# 其他
+.DS_Store
+*.pyc
+__pycache__/
+*.log
